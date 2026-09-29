@@ -1,4 +1,5 @@
-# Casa de Saberes Cego Aderaldo — Sistema de Gestão Cultural
+# Sistema de Gestão Cultural
+### *Casa de Saberes Cego Aderaldo*
 
 Projeto acadêmico full stack, inspirado nas necessidades de um centro
 cultural real (Casa de Saberes Cego Aderaldo). Sistema web para gestão de
