@@ -39,15 +39,6 @@ administrativa autenticada.
 | Armazenamento de arquivos | SeaweedFS |
 | Infraestrutura | Docker + Coolify (self-hosted, VPS própria) |
 
-## Estrutura do projeto
-
-P01_CasaSaberesCA/
-├── client/ # Aplicação React (frontend)
-├── server/ # API Express (backend)
-├── docker-compose.yml
-└── README.md
-
-
 ## Arquitetura
 
 O frontend em React (`client/`) consome uma API REST construída em Express
