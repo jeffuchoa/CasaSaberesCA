@@ -73,17 +73,3 @@ cd client
 npm install
 npm start
 \`\`\`
-
-## Roadmap / próximos passos
-
-- [ ] Implementar edição (update) de eventos e trabalhos publicados
-- [ ] Testes automatizados (Jest / Supertest)
-
-## O que aprendi
-
-Este foi meu primeiro projeto integrando um serviço de armazenamento de
-arquivos dedicado (SeaweedFS) fora do banco de dados principal, além de
-configurar deploy self-hosted de ponta a ponta com Docker e Coolify — desde
-o provisionamento do servidor e configuração de domínio próprio até o
-ambiente em produção. Também implementei autenticação e controle de acesso
-para separar área pública de área administrativa.
