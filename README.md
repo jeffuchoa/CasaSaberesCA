@@ -1,6 +1,12 @@
 # Sistema de Gestão Cultural
 ### *Casa de Saberes Cego Aderaldo*
 
+![API REST](https://img.shields.io/badge/API-REST-blue)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
 Projeto acadêmico full stack, inspirado nas necessidades de um centro
 cultural real (Casa de Saberes Cego Aderaldo). Sistema web para gestão de
 agenda de eventos e publicação de trabalhos e pesquisas, com área
