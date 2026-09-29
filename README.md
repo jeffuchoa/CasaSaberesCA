@@ -6,6 +6,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![SeaweedFS](https://img.shields.io/badge/SeaweedFS-C71A36)
 
 Projeto acadêmico full stack, inspirado nas necessidades de um centro
 cultural real (Casa de Saberes Cego Aderaldo). Sistema web para gestão de
