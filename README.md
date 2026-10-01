@@ -54,15 +54,15 @@ servidor próprio, gerenciado com Coolify.
 
 Com Docker (recomendado — sobe client, server, MongoDB e SeaweedFS juntos):
 
-\`\`\`bash
+```bash
 git clone https://github.com/jeffuchoa/P01_CasaSaberesCA.git
 cd P01_CasaSaberesCA
 docker compose up
-\`\`\`
+```
 
 Rodando cada parte separadamente (para debug):
 
-\`\`\`bash
+```bash
 # Backend
 cd server
 npm install
@@ -72,4 +72,4 @@ npm start
 cd client
 npm install
 npm start
-\`\`\`
+```
