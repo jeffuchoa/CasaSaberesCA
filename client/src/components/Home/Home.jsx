@@ -269,7 +269,7 @@ const Noticias = () => {
 
     function deleteTrabalho(id) {
     
-        axios.delete(`http://localhost:3001/noticias/delete/${id}`)
+        axios.delete(`http://localhost:5000/noticias/delete/${id}`)
           .then(
             (response) => {
               deleteTeste(id)
@@ -321,7 +321,7 @@ const Noticias = () => {
 
     useEffect(
         () => {
-            axios.get("http://localhost:3001/noticias/listar")
+            axios.get("http://localhost:5000/noticias/listar")
                 .then(
                     (response) => {
                         setData(response.data)
@@ -335,7 +335,7 @@ const Noticias = () => {
 
     useEffect(
         () => {
-            axios.get("http://localhost:3001/noticias/listar")
+            axios.get("http://localhost:5000/noticias/listar")
                 .then(
                     (response) => {
                         setData(response.data)
@@ -366,7 +366,7 @@ const Noticias = () => {
     const MontarNoticia = () => {
         SetClasse('overlayNoticias')
         const novoTrabalho = { name: nomeNoticia, link: linkNoticia, image: linkImg }
-        axios.post("http://localhost:3001/noticias/adicionar", novoTrabalho)
+        axios.post("http://localhost:5000/noticias/adicionar", novoTrabalho)
             .then(
                 (response) => {
                     Confirmação()
@@ -502,7 +502,7 @@ const NossosDados = () => {
     const [mudou, SetMudou] = useState(false);
 
     useEffect(() => {
-        axios.get("http://localhost:3001/acessos/listar")
+        axios.get("http://localhost:5000/acessos/listar")
             .then(response => {
                 setNumeroAcessos(response.data[0].numero);
             })
@@ -512,7 +512,7 @@ const NossosDados = () => {
     useEffect(() => {
         if (numeroAcessos !== 0) {
             const novoNumero = numeroAcessos + 1;
-            axios.put(`http://localhost:3001/acessos/update/649ed67ae5acda81ef1a7609`, { numero: novoNumero })
+            axios.put(`http://localhost:5000/acessos/update/649ed67ae5acda81ef1a7609`, { numero: novoNumero })
                 .then(response => {
                     console.log(response.data);
                 })

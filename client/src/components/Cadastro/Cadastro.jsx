@@ -25,7 +25,7 @@ const Cadastro = () => {
     
     useEffect(
         () => {
-            axios.get("http://localhost:3001/usuarios/listar")
+            axios.get("http://localhost:5000/usuarios/listar")
                 .then(
                     (response) => {
                         SetUsuarios(response.data)
@@ -39,7 +39,7 @@ const Cadastro = () => {
 
     const MontarUsuario = () => {
         const novoTrabalho = { nome: nome, email: email, senha: senha, fone:fone, tipo:'user'}
-        axios.post("http://localhost:3001/usuarios/adicionar", novoTrabalho)
+        axios.post("http://localhost:5000/usuarios/adicionar", novoTrabalho)
             .then(
                 (response) => {
                     alert(`Trabalho: ${response.data.nome} adicionado!`)
