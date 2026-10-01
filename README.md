@@ -55,7 +55,7 @@ servidor próprio, gerenciado com Coolify.
 Com Docker (monta e roda todo o sistema automaticamente)
 
 ```bash
-git clone https://github.com/jeffuchoa/P01_CasaSaberesCA.git
+git clone https://github.com/jeffuchoa/CasaSaberesCA.git
 cd P01_CasaSaberesCA
 docker compose up
 ```
