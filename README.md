@@ -52,7 +52,7 @@ servidor próprio, gerenciado com Coolify.
 
 ## Como rodar localmente
 
-Com Docker (recomendado — sobe client, server, MongoDB e SeaweedFS juntos):
+Com Docker (monta e roda todo o sistema automaticamente)
 
 ```bash
 git clone https://github.com/jeffuchoa/P01_CasaSaberesCA.git
