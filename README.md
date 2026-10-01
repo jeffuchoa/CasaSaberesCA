@@ -56,7 +56,7 @@ Com Docker (monta e roda todo o sistema automaticamente)
 
 ```bash
 git clone https://github.com/jeffuchoa/CasaSaberesCA.git
-cd P01_CasaSaberesCA
+cd CasaSaberesCA
 docker compose up
 ```
 
