@@ -1,8 +1,4 @@
 # Sistema de Gestão Cultural
-
-![Tela inicial](docs/images/CegoAderaldoImg.webp)
-### *Casa de Saberes Cego Aderaldo*
-
 ![API REST](https://img.shields.io/badge/API-REST-blue)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
@@ -10,6 +6,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![SeaweedFS](https://img.shields.io/badge/SeaweedFS-C71A36)
+
+![Tela inicial](docs/images/CegoAderaldoImg.webp)
+
+### *Casa de Saberes Cego Aderaldo*
+
+
 
 Projeto acadêmico full stack, inspirado nas necessidades de um centro
 cultural real (Casa de Saberes Cego Aderaldo). Sistema web para gestão de
