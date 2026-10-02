@@ -1,6 +1,6 @@
 # Sistema de Gestão Cultural
 
-![Tela inicial](docs/images/CegoAderaldo.webp)
+![Tela inicial](docs/images/CegoAderaldoImg.webp)
 ### *Casa de Saberes Cego Aderaldo*
 
 ![API REST](https://img.shields.io/badge/API-REST-blue)
