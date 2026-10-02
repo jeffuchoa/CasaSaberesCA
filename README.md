@@ -19,8 +19,8 @@ agenda de eventos e publicação de trabalhos e pesquisas, com área
 administrativa autenticada.
 
 🔗 **Demo:** https://casa-saberes.jeffuchoa.com.br
-![demo1](docs/gif/desktop.gif)
-![demo2](docs/gif/mobile.gif)
+![demo1](docs/gifs/desktop.gif)
+![demo2](docs/gifs/mobile.gif)
 
 ## Funcionalidades
 
