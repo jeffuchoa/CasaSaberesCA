@@ -21,8 +21,8 @@ administrativa autenticada.
 🔗 **Demo:** https://casa-saberes.jeffuchoa.com.br
 
 <p align="center">
-  <img src="docs/gifs/desktop.gif" alt="demo1" width="65%" />
-  <img src="docs/gifs/mobile.gif" alt="demo2" width="30%" />
+  <img src="docs/gifs/desktop.gif" alt="demo1" height="400" />
+  <img src="docs/gifs/mobile.gif" alt="demo2" height="400" />
 </p>
 
 ## Funcionalidades
